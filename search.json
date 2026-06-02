@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "📓 Syntopy in North American Passerines",
+    "section": "",
+    "text": "📓 Syntopy in North American Passerines\nHere is the documentation of my master’s thesis in ecology.\n\n\n\n\n\n\nHere I focus on building a conceptual tool for my thesis, where I analyse local co-occurrence (syntopy) on two spatial scales (between and withing transects) using data from Breeding Bird Survey.\n\n\n\nView Thesis Documentation →\n\n\n\n🌎 SDS Assignment\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Project →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nView Project →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Matěj Tvarůžka",
@@ -12,12 +19,5 @@
     "title": "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to contact me!",
     "section": "",
     "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "📓 Syntopy in North American Passerines",
-    "section": "",
-    "text": "📓 Syntopy in North American Passerines\nHere is the documentation of my master’s thesis in ecology.\n\n\n\n\n\n\nHere I focus on building a conceptual tool for my thesis, where I analyse local co-occurrence (syntopy) on two spatial scales (between and withing transects) using data from Breeding Bird Survey.\n\n\n\nView Thesis Documentation →\n\n\n\n🌎 SDS Assignment\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Project →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nView Project →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
   }
 ]
