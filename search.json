@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to contact me!",
+    "section": "",
+    "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "📓 Syntopy in North American Passerines",
+    "title": "🔢 Bayesian Analysis of Syntopy",
     "section": "",
-    "text": "📓 Syntopy in North American Passerines\nHere is the documentation of my master’s thesis in ecology.\n\n\n\n\n\n\nHere I focus on building a conceptual tool for my thesis, where I analyse local co-occurrence (syntopy) on two spatial scales (between and withing transects) using data from Breeding Bird Survey.\n\n\n\nView Thesis Documentation →\n\n\n\n🌎 SDS Assignment\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Project →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nView Project →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
+    "text": "🔢 Bayesian Analysis of Syntopy\nHere is the documentation of my statistical assignment for the course Bayesian Statistics.\n\n\n\n\n\n\nI analyseed the simulated data with R, using the library Rethinking. I simulated syntopy for two spatial scales using Fisher’s non-central hypergeometric distribution and than I tried to estimate the true values with models in Stan.\n\n\n\nView Bayesian Assignment →\n\n\n\n🌎 SDS Assignment\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Project →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nView Project →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
   },
   {
     "objectID": "about.html",
@@ -12,12 +19,5 @@
     "title": "Matěj Tvarůžka",
     "section": "",
     "text": "I have been fascinated by nature for as long as I can remember, with David Attenborough’s documentaries serving as my earliest and most inspiring source of curiosity about the natural world. I began birdwatching in 2018 — a hobby that has since evolved into my main academic focus, as birds have become my primary study group. This passion led me to pursue studies in ecological and evolutionary biology, which remain at the core of my scientific interests.\nI am currently a Master’s student of Ecology at Charles University in Prague, working under the supervision of Prof. Vladimír Remeš. I draw inspiration from scientists such as E. O. Wilson, Jared Diamond, Richard Feynman, and Vojtěch Novotný, whose work continues to shape my perspective on the diversity and complexity of life. Beyond research, I enjoy exploring topics in politics, history, and sociology. I am also passionate about jazz music — I play drums and percussion, dance swing, and can sometimes be found at my favorite Prague jazz club, U Malého Glena."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to contact me!",
-    "section": "",
-    "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
   }
 ]
