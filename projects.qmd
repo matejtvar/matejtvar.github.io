@@ -3,17 +3,15 @@ pagetitle: "Projects"
 title-block-style: none
 ---
 
-# 📓 Syntopy in North American Passerines
+# 🔢 Bayesian Analysis of Syntopy
 
-Here is the documentation of my master's thesis in ecology.
+Here is the documentation of my statistical assignment for the course Bayesian Statistics.
 
 ::: {.callout-note appearance="minimal"}
-Here I focus on building a conceptual tool for my thesis, where I
-analyse local co-occurrence (syntopy) on two spatial scales (between and
-withing transects) using data from Breeding Bird Survey.
+I analyseed the simulated data with **R**, using the library `Rethinking`. I simulated syntopy for two spatial scales using **Fisher's non-central hypergeometric distribution** and than I tried to estimate the true values with models in [**Stan**](https://mc-stan.org/).
 :::
 
-[**View Thesis Documentation →**](https://matejtvar.github.io/BBS-syntopy/){.btn .btn-outline-primary .btn-sm role="button"}
+[**View Bayesian Assignment →**](https://matejtvar.github.io/Bayesian_syntopy/){.btn .btn-outline-primary .btn-sm role="button"}
 
 ------------------------------------------------------------------------
 
