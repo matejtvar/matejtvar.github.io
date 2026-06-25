@@ -15,7 +15,7 @@ I analyseed the simulated data with **R**, using the library `Rethinking`. I sim
 
 ------------------------------------------------------------------------
 
-# 🌎 SDS Assignment
+# 🌎 Environmental and Spatial Predictors of Bird Diversity across the US
 
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in 🐍**python** using **JupyterLab**.
 
