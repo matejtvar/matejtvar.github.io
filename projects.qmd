@@ -1,5 +1,5 @@
 ---
-pagetitle: "Projects"
+pagetitle: "Reserach Projects"
 title-block-style: none
 ---
 
@@ -23,13 +23,13 @@ Here you can check my final assignement of [Spatial Data Science for Social Geog
 I made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.
 :::
 
-[**View Project →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
+[**View Assignement →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
 
 # 📓 Ecology and evolution of secondary sympatry in birds
 
 Here you can check my bachelor's thesis.
 
-[**View Project →**](https://dspace.cuni.cz/bitstream/handle/20.500.11956/203819/130440898.pdf?sequence=1){.btn .btn-outline-primary .btn-sm role="button"}
+[**Bachelor's thesis →**](https://dspace.cuni.cz/bitstream/handle/20.500.11956/203819/130440898.pdf?sequence=1){.btn .btn-outline-primary .btn-sm role="button"}
 
 # 🔰 R for Life
 
