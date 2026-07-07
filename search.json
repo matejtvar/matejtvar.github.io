@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome! I am Matěj, master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to check some of my projects!",
+    "title": "Welcome! I am Matěj, dedicated student of ecology and evolutionary biology. Do not hesitate to contact me or check some of my research projects 😉",
     "section": "",
     "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
   },
@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "🔢 Bayesian Analysis of Syntopy",
     "section": "",
-    "text": "🔢 Bayesian Analysis of Syntopy\nHere is the documentation of my statistical assignment for the course Bayesian Statistics.\n\n\n\n\n\n\nI analyseed the simulated data with R, using the library Rethinking. I simulated syntopy for two spatial scales using Fisher’s non-central hypergeometric distribution and than I tried to estimate the true values with models in Stan.\n\n\n\nView Bayesian Assignment →\n\n\n\n🌎 Environmental and Spatial Predictors of Bird Diversity across the US\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Project →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nView Project →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
+    "text": "🔢 Bayesian Analysis of Syntopy\nHere is the documentation of my statistical assignment for the course Bayesian Statistics.\n\n\n\n\n\n\nI analyseed the simulated data with R, using the library Rethinking. I simulated syntopy for two spatial scales using Fisher’s non-central hypergeometric distribution and than I tried to estimate the true values with models in Stan.\n\n\n\nView Bayesian Assignment →\n\n\n\n🌎 Environmental and Spatial Predictors of Bird Diversity across the US\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nI made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Assignement →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nBachelor’s thesis →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
   },
   {
     "objectID": "about.html",
