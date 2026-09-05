@@ -1,5 +1,5 @@
 ---
-title: "Welcome! I am Matěj, dedicated student of ecology and evolutionary biology. Do not hesitate to contact me or check some of my research projects 😉"
+title: "Welcome, dear human! This is just a personal website, nothing more 😉"
 image: photo.jpeg
 about:
   template: jolla

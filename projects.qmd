@@ -1,5 +1,5 @@
 ---
-pagetitle: "Reserach Projects"
+pagetitle: "Research Projects"
 title-block-style: none
 ---
 
@@ -8,7 +8,7 @@ title-block-style: none
 Here is the documentation of my statistical assignment for the course Bayesian Statistics.
 
 ::: {.callout-note appearance="minimal"}
-I analyseed the simulated data with **R**, using the library `Rethinking`. I simulated syntopy for two spatial scales using **Fisher's non-central hypergeometric distribution** and than I tried to estimate the true values with models in [**Stan**](https://mc-stan.org/).
+This is the analysis of simulated data with **R**, mainly with the library `Rethinking`. A syntopy is simulated for two spatial scales using **Fisher's non-central hypergeometric distribution** and the true values are estimated with models in [**Stan**](https://mc-stan.org/).
 :::
 
 [**View Bayesian Assignment →**](https://matejtvar.github.io/Bayesian_syntopy/){.btn .btn-outline-primary .btn-sm role="button"}
@@ -20,7 +20,7 @@ I analyseed the simulated data with **R**, using the library `Rethinking`. I sim
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in 🐍**python** using **JupyterLab**.
 
 ::: {.callout-note appearance="minimal"}
-I made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.
+This is the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.
 :::
 
 [**View Assignement →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
