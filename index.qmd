@@ -1,5 +1,5 @@
 ---
-title: "Welcome! I am master student in Ecology at the Charles University courious about spatial ecology. Do not hesitate to contact me!"
+title: "Welcome! I am Matěj, dedicated student of ecology and evolutionary biology. Do not hesitate to contact me or check some of my research projects 😉"
 image: photo.jpeg
 about:
   template: jolla

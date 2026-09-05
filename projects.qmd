@@ -1,23 +1,21 @@
 ---
-pagetitle: "Projects"
+pagetitle: "Reserach Projects"
 title-block-style: none
 ---
 
-# 📓 Syntopy in North American Passerines
+# 🔢 Bayesian Analysis of Syntopy
 
-Here is the documentation of my master's thesis in ecology.
+Here is the documentation of my statistical assignment for the course Bayesian Statistics.
 
 ::: {.callout-note appearance="minimal"}
-Here I focus on building a conceptual tool for my thesis, where I
-analyse local co-occurrence (syntopy) on two spatial scales (between and
-withing transects) using data from Breeding Bird Survey.
+I analyseed the simulated data with **R**, using the library `Rethinking`. I simulated syntopy for two spatial scales using **Fisher's non-central hypergeometric distribution** and than I tried to estimate the true values with models in [**Stan**](https://mc-stan.org/).
 :::
 
-[**View Thesis Documentation →**](https://matejtvar.github.io/BBS-syntopy/){.btn .btn-outline-primary .btn-sm role="button"}
+[**View Bayesian Assignment →**](https://matejtvar.github.io/Bayesian_syntopy/){.btn .btn-outline-primary .btn-sm role="button"}
 
 ------------------------------------------------------------------------
 
-# 🌎 SDS Assignment
+# 🌎 Environmental and Spatial Predictors of Bird Diversity across the US
 
 Here you can check my final assignement of [Spatial Data Science for Social Geography course](https://martinfleischmann.net/sds/), which is a computational essey written in 🐍**python** using **JupyterLab**.
 
@@ -25,13 +23,13 @@ Here you can check my final assignement of [Spatial Data Science for Social Geog
 I made the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.
 :::
 
-[**View Project →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
+[**View Assignement →**](https://matejtvar.github.io/SDS-assignment/){.btn .btn-outline-primary .btn-sm role="button"}
 
 # 📓 Ecology and evolution of secondary sympatry in birds
 
 Here you can check my bachelor's thesis.
 
-[**View Project →**](https://dspace.cuni.cz/bitstream/handle/20.500.11956/203819/130440898.pdf?sequence=1){.btn .btn-outline-primary .btn-sm role="button"}
+[**Bachelor's thesis →**](https://dspace.cuni.cz/bitstream/handle/20.500.11956/203819/130440898.pdf?sequence=1){.btn .btn-outline-primary .btn-sm role="button"}
 
 # 🔰 R for Life
 
