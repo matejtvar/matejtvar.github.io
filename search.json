@@ -7,17 +7,17 @@
     "text": "My little self have been fascinated by nature from the early days of my existence, watching stunning documentaries of David Attenborough and reading about fascinating life discoveries of Mr. Darwin, Wallace, Diamond, Wilson, Einstein, Feynman, Verne, London and many others. Later I decided to pursue studies in ecological and evolutionary biology, which remain at the core of my scientific interests. This goes hand in hand with my inclination to spatial patterns, which evolved over the hundreds of hours spent as a child moving little wooden soldiers across the carpet in my room.\nNowadays I live as the curious human being, the man who wants to be aware of the presence in this marvelous constantly changing world. Do you want to know me better? Write me an email and we can talk over some tasty beverage!\nAnd always remember dear friend, knowledge is just knowledge, nothing more."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome, dear human! This is just a personal website, nothing more 😉",
-    "section": "",
-    "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "🔢 Bayesian Analysis of Syntopy",
     "section": "",
     "text": "🔢 Bayesian Analysis of Syntopy\nHere is the documentation of my statistical assignment for the course Bayesian Statistics.\n\n\n\n\n\n\nThis is the analysis of simulated data with R, mainly with the library Rethinking. A syntopy is simulated for two spatial scales using Fisher’s non-central hypergeometric distribution and the true values are estimated with models in Stan.\n\n\n\nView Bayesian Assignment →\n\n\n\n🌎 Environmental and Spatial Predictors of Bird Diversity across the US\nHere you can check my final assignement of Spatial Data Science for Social Geography course, which is a computational essey written in 🐍python using JupyterLab.\n\n\n\n\n\n\nThis is the route-based analysis of species richness across the contiguous United States, using The North American Breeding Bird Survey (BBS) data - routes as the observational units and combination of environmental (NDVI) and spatial (elevation, LONG, LAT) predictors.\n\n\n\nView Assignement →\n\n\n📓 Ecology and evolution of secondary sympatry in birds\nHere you can check my bachelor’s thesis.\nBachelor’s thesis →\n\n\n🔰 R for Life\nHere you can check my first two projects written in R.\nSpecies Richness Map →\nBasic SDM model →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome, dear human! This is just a personal website, nothing more 😉",
+    "section": "",
+    "text": "„The ideal scientist thinks like a poet\nand only later works like a bookkeeper.“\n\nE. O. Wilson"
   }
 ]
