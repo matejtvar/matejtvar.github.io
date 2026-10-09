@@ -1,6 +1,6 @@
 ---
 title: "Matěj Tvarůžka"
-image: photo1.jpeg
+image: photo.jpeg
 about:
   template: trestles
   image-shape: round

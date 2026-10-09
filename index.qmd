@@ -1,6 +1,6 @@
 ---
 title: "Welcome, dear human! This is just a personal website, nothing more 😉"
-image: photo.jpeg
+image: my_little_self.jpeg
 about:
   template: jolla
   image-shape: round
