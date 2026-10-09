@@ -1,6 +1,6 @@
 ---
-title: "Welcome, dear human! This is just a personal website, nothing more 😉"
-image: my_little_self.jpeg
+title: "Welcome, dear human! This is just a personal website via which you can reach me out or get inspired by some of the things I do."
+image: photome.jpg
 about:
   template: jolla
   image-shape: round
@@ -18,6 +18,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:matej.tvar@gmail.com
+    - icon: book
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/128324668-mat-j
 ---
 
 > *„The ideal scientist thinks like a poet*
